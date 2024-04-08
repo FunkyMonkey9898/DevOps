@@ -28,7 +28,7 @@ public class prink {
     // Main method to test the program
     public static void main(String[] args) {
         int n = 10; // starting number
-        int m = 50; // ending number
+        int m = 500; // ending number
         printPrimesInRange(n, m);
     }
 }
